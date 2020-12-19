@@ -1,0 +1,30 @@
+{
+  "name": "webpack-empty-files-cleanup-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theArtechnology/webpack-empty-files-cleanup.git"
+  },
+  "keywords": [
+    "webpack",
+    "zero",
+    "bytes",
+    "empty",
+    "files"
+  ],
+  "author": "Joseph Jean Bruno Bernard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theArtechnology/webpack-empty-files-cleanup/issues"
+  },
+  "homepage": "https://github.com/theArtechnology/webpack-empty-files-cleanup-plugin#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "schema-utils": "^3.0.0"
+  }
+}
