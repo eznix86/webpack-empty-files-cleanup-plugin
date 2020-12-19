@@ -1,4 +1,4 @@
-# webpack-remove-empty-js-chunks-plugin
+# webpack-empty-files-cleanup-plugin
 Webpack plugin for removing empty files, or classified as 0 bytes.
 
 
