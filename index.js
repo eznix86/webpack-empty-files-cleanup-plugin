@@ -1,4 +1,4 @@
-import { validate } from 'schema-utils';
+const { validate } = require('schema-utils');
 const chalk = require('chalk');
 const fs = require('fs');
 
