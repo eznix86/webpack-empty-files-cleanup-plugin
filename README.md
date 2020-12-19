@@ -13,7 +13,7 @@ plugins.push(new WebpackEmptyFilesCleanUpPlugin(options));
 
 ## Options
 
-An optional parameter, object with properties.
+An **required** parameter with properties.
 
 ### `verbose` (`boolean`)
 
